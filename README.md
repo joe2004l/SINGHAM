@@ -1,9 +1,5 @@
 <p align="center">
-<canvas id="matrix"></canvas>
-
-<script>
-drawMatrix();
-</script>
+<script> drawMatrix(); </script>
 </p>
 
 <h1 align="center">
