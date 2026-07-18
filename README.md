@@ -1,4 +1,5 @@
 <p align="center">
+<script src="app.js"></script>
 </p>
 
 <h1 align="center">
