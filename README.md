@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="matrix.svg" alt="SINGHAM Matrix Rain" width="100%" />
-</p>
+
 
 <h1 align="center">
 🛡️ SINGHAM
